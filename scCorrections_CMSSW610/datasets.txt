@@ -1,0 +1,6 @@
+Datasets used for scCorrections extraction:
+
+/RelValSingleElectronPt5to250/CMSSW_6_1_0_pre6_TS126203_TS126341_patch1-START61_V6-v1/GEN-SIM-RECO
+/RelValSingleGammaPt5to250/CMSSW_6_1_0_pre6_TS126203_TS126341_patch1-START61_V6-v1/GEN-SIM-RECO
+
+with SC_minitree_analyzer/PhotonPUAnalyzer tag scCorr_610
